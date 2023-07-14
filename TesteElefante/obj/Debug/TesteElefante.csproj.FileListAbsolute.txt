@@ -1,0 +1,7 @@
+H:\CURSOS\Elefante Incomoda(while+for)\TesteElefante\bin\Debug\TesteElefante.exe.config
+H:\CURSOS\Elefante Incomoda(while+for)\TesteElefante\bin\Debug\TesteElefante.exe
+H:\CURSOS\Elefante Incomoda(while+for)\TesteElefante\bin\Debug\TesteElefante.pdb
+H:\CURSOS\Elefante Incomoda(while+for)\TesteElefante\obj\Debug\TesteElefante.csproj.SuggestedBindingRedirects.cache
+H:\CURSOS\Elefante Incomoda(while+for)\TesteElefante\obj\Debug\TesteElefante.csproj.CoreCompileInputs.cache
+H:\CURSOS\Elefante Incomoda(while+for)\TesteElefante\obj\Debug\TesteElefante.exe
+H:\CURSOS\Elefante Incomoda(while+for)\TesteElefante\obj\Debug\TesteElefante.pdb
